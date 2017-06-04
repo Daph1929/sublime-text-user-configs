@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+${1:button} = Button(${2:root}, text='${3:Stop}', width=20,bd=4,command=${4:root.destroy})
+${1:button}.pack()
+]]></content>
+	
+	<tabTrigger>button</tabTrigger> 
+	
+	<scope>source.python</scope> 
+</snippet>

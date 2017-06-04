@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<snippet>
+	<content><![CDATA[
+	$4
+	]]${1:\delete}></content>
+
+	<tabTrigger>${3:snippet}</tabTrigger> 
+	
+	<scope>source.${2:python}</scope> 
+</snippet>
+]]></content>
+	
+	<tabTrigger>snippet</tabTrigger> 
+	
+	<scope>text.xml</scope> 
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+${1:label} = Label(${2:canvas}, fg ="${3:white}",bg="${4:black}",font="${5:Arial}",width=${6:21})
+label.pack()
+]]></content>
+	
+	<tabTrigger>label</tabTrigger>
+	<scope>source.python</scope>
+
+</snippet>
+
+

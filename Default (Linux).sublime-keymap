@@ -1,0 +1,5 @@
+[
+	{ "keys": ["clrt+alt+y"], "command": "new_snippet"},
+	{ "keys": ["clrt+alt+d"], "command": "run_macro_file","args": {"file": "Packages/User/dollar_snippet.sublime-macro"}},
+	{ "keys": ["clrt+alt+m"], "command": "run_macro_file","args": {"file": "Packages/User/tags_snippet.sublime-macro"}}
+]

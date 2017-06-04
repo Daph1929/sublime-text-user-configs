@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Autocomplete",
+		"Colorsublime",
+		"Emmet",
+		"Git",
+		"Package Control",
+		"Pygame Completions",
+		"Pygame-Completions",
+		"Python Completions",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Afterglow"
+	],
+	"repositories":
+	[
+		"https://github.com/tushortz/Pygame-Completions"
+	]
+}

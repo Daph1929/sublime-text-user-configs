@@ -1,0 +1,21 @@
+{
+   "scope": "source.c",
+
+   "completions":
+   [
+      { "trigger": "var\tint", "contents": "int ${1:i};$2" }, 
+      { "trigger": "var\tchar", "contents": "char ${1:a};$2" },
+      { "trigger": "var\tfloat", "contents": "float ${1:i};$2" },
+      { "trigger": "var\tdouble", "contents": "double ${1:d};$2" },
+      { "trigger": "c\tcomment", "contents": "/* ${1:comment} */$2" },
+      { "trigger": "var\tvalue", "contents": "${1:type} ${2:variable_name} = ${3:value}; /* ${4:int,char,byte,float,double} */$5 " },
+      { "trigger": "constant\t#define", "contents": "#define ${1:name} ${2:value}" },
+      { "trigger": "constant\tconst", "contents": "const ${1:type} ${2:name} = ${3:value};  /* ${4:int,char,byte,float,double} */$5 " },
+      { "trigger": "array\tdeclare", "contents": "${1:type} ${2:arrayName} [${3:arraySize}];$4" },
+      { "trigger": "array\tinitialize", "contents": "${1:type} ${2:arrayName} [${3:arraySize}] = {$4};$5" },
+      { "trigger": "print\toutput", "contents": "printf(\"$1 = %d \\n \",${1:var} );$2" },
+      { "trigger": "scanf\tinput", "contents": "scanf(\"%d\",&${1:var});" },
+
+
+  ]
+}

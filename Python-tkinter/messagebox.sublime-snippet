@@ -1,0 +1,9 @@
+ <snippet>
+	<content><![CDATA[
+tkMessageBox.showinfo("${1:Hello Python}", "${2:Hello World"})
+]]></content>
+	
+	<tabTrigger>messagebox</tabTrigger> 
+	
+	<scope>source.python</scope> 
+</snippet>

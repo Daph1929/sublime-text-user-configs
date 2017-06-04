@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+canvas.create_window(${1:100}, ${2:400}, window=${3:label},anchor='${4:nw}')
+]]></content>
+	<tabTrigger>canvas</tabTrigger> 
+	
+	<scope>source.python</scope> 
+</snippet>

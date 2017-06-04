@@ -1,0 +1,10 @@
+{
+   "scope": "source.lisp",
+
+   "completions":
+   [
+      { "trigger": "space\tline", "contents": "(terpri)           ;new-line" }, 
+      
+
+  ]
+}

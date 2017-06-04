@@ -1,0 +1,126 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Import Library",
+				"id": "stino_import_library",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_libraries",
+						"command": "stino_refresh_libraries"
+					},
+					{"caption": "-"},
+					{
+						"caption": "SoftwareSerial",
+						"id": "stino_library_SoftwareSerial",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/SoftwareSerial"}
+					},
+					{
+						"caption": "Firmata",
+						"id": "stino_library_Firmata",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Firmata"}
+					},
+					{
+						"caption": "Stepper",
+						"id": "stino_library_Stepper",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Stepper"}
+					},
+					{
+						"caption": "Robot_Control",
+						"id": "stino_library_Robot_Control",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Robot_Control"}
+					},
+					{
+						"caption": "EEPROM",
+						"id": "stino_library_EEPROM",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/EEPROM"}
+					},
+					{
+						"caption": "SD",
+						"id": "stino_library_SD",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/SD"}
+					},
+					{
+						"caption": "LiquidCrystal",
+						"id": "stino_library_LiquidCrystal",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/LiquidCrystal"}
+					},
+					{
+						"caption": "Robot_Motor",
+						"id": "stino_library_Robot_Motor",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Robot_Motor"}
+					},
+					{
+						"caption": "SPI",
+						"id": "stino_library_SPI",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/SPI"}
+					},
+					{
+						"caption": "Esplora",
+						"id": "stino_library_Esplora",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Esplora"}
+					},
+					{
+						"caption": "WiFi",
+						"id": "stino_library_WiFi",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/WiFi"}
+					},
+					{
+						"caption": "GSM",
+						"id": "stino_library_GSM",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/GSM"}
+					},
+					{
+						"caption": "TFT",
+						"id": "stino_library_TFT",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/TFT"}
+					},
+					{
+						"caption": "XBee",
+						"id": "stino_library_XBee",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/XBee"}
+					},
+					{
+						"caption": "Wire",
+						"id": "stino_library_Wire",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Wire"}
+					},
+					{
+						"caption": "Servo",
+						"id": "stino_library_Servo",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Servo"}
+					},
+					{
+						"caption": "Ethernet",
+						"id": "stino_library_Ethernet",
+						"command": "stino_import_library",
+						"args": {"library_path": "/usr/share/arduino/libraries/Ethernet"}
+					},
+					{"caption": "-"}
+				]
+			}
+		]
+	}
+]

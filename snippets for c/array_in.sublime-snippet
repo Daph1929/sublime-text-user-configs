@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+     for(i=0;i<${1:arraySize};i++)
+		{
+			scanf("%d",&${2:arrayName}[i]); 
+		}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>array_scanf</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope> 
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#images
+${1:img} = PhotoImage(file = "${2:cake}.png")$3
+]]></content>
+	<tabTrigger>Image</tabTrigger> 
+	
+	<scope>source.python</scope> 
+</snippet>

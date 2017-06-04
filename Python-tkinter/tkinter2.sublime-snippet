@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+from Tkinter import *
+import tkMessageBox
+${1:root} = Tk()
+root.title("$2")
+$3
+${1:root}.mainloop()
+]]></content>
+	
+	<tabTrigger>import</tabTrigger> 
+	
+	<scope>source.python</scope> 
+</snippet>

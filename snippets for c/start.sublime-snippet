@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+
+#include <stdio.h>
+
+
+void main()
+{
+ int i;
+ printf("${1:Type lol :D | hello}\n");$2
+ scanf("%d",&i);
+ printf( "\nYou entered: %d\n",i);
+ 	
+}
+
+
+]]>
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>start</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope> 
+</snippet>

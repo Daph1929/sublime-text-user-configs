@@ -1,0 +1,160 @@
+[
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "<"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "t"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "abT"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "ri"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "gg"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "er>"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "<"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"insert_slash": true
+		},
+		"command": "close_tag"
+	},
+	{
+		"args":
+		{
+			"characters": "\n<"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "sc"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "op"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "e"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": ">"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "s"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "ou"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "rc"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "e."
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "py"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "th"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "on"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "<"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"insert_slash": true
+		},
+		"command": "close_tag"
+	}
+]
